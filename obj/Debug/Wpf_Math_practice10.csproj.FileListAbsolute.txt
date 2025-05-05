@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\Wpf_Math_practice10.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\App.g.cs
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\Wpf_Math_practice10_MarkupCompile.cache
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\Wpf_Math_practice10_MarkupCompile.lref
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\bin\Debug\Wpf_Math_practice10.exe.config
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\bin\Debug\Wpf_Math_practice10.exe
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\bin\Debug\Wpf_Math_practice10.pdb
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\Wpf_Math_practice10.g.resources
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\Wpf_Math_practice10.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\Wpf_Math_practice10.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\Wpf_Math_practice10.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\Wpf_Math_practice10.exe
+C:\Users\Пользователь\source\repos\Wpf_Math_practice10\obj\Debug\Wpf_Math_practice10.pdb
